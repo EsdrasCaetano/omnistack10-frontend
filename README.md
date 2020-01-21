@@ -1,5 +1,7 @@
 # DevRadar ( Backend - Semana Omnistack 10 / Rocketseat )
 
+#### Aplicação desenvolvida com ReactJS
+
 ![Fronend-Gif](https://github.com/EsdrasCaetano/omnistack10-frontend/blob/master/rd-web-os10.gif)
 
 ## Getting Started
