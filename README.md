@@ -1,5 +1,7 @@
 # DevRadar ( Backend - Semana Omnistack 10 / Rocketseat )
 
+![Fronend-Gif](https://github.com/EsdrasCaetano/omnistack10-frontend/blob/master/rd-web-os10.gif)
+
 ## Getting Started
 
 Estas instruções permitirão copiar o projeto e rodá-lo localmente para propósito de testes e desenvolvimento.
@@ -29,6 +31,8 @@ Estas instruções permitirão copiar o projeto e rodá-lo localmente para prop�
 Inserir o comando a baixo na pasta desejada para salvar o projeto.
 
 `git clone [link do repositório]`
+
+- [Backend](https://github.com/EsdrasCaetano/omnistack10-backend/blob/master/README.md)
 
 ### Iniciar a aplicação web
 
